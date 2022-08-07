@@ -1,2 +1,2 @@
-Welcome to Devops Session1 
+Welcome
 
